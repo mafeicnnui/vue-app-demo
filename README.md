@@ -1,24 +1,23 @@
-# vue-app-demo
+一、项目安装
 
-## Project setup
-```
-npm install
-```
+    npm install
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+二、编译运行-开发
 
-### Lints and fixes files
-```
-npm run lint
-```
+    npm run serve
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+三、编译运行-生产
+
+    npm run build
+
+
+四、链接修复
+
+    npm run lint
+
+五、第三方依赖
+
+    npm install --save axios jquery
+    npm i element-ui -S
